@@ -2,7 +2,7 @@ package org.avs.raffinate.domain.clothes;
 
 
 import jakarta.persistence.*;
-import org.avs.raffinate.DTO.ClothesDTO;
+import org.avs.raffinate.DTO.clothes.ClothesDTO;
 
 @Entity
 @Table

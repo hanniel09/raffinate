@@ -1,6 +1,6 @@
 package org.avs.raffinate.controllers;
 
-import org.avs.raffinate.DTO.ClothesDTO;
+import org.avs.raffinate.DTO.clothes.ClothesDTO;
 import org.avs.raffinate.domain.clothes.Clothes;
 import org.avs.raffinate.services.ClothesService;
 import org.springframework.beans.factory.annotation.Autowired;

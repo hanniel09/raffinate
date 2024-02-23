@@ -1,6 +1,6 @@
 package org.avs.raffinate.services;
 
-import org.avs.raffinate.DTO.ClothesDTO;
+import org.avs.raffinate.DTO.clothes.ClothesDTO;
 import org.avs.raffinate.domain.clothes.Clothes;
 import org.avs.raffinate.exceptions.badrequests.ClothesBadRequestException;
 import org.avs.raffinate.repositories.ClothesRepository;
